@@ -1,7 +1,7 @@
 {
-  "name": "ketcher-core",
-  "version": "2.26.0",
-  "description": "Web-based molecule sketcher",
+  "name": "@moustaphacamara/ketcher-core",
+  "version": "2.26.6",
+  "description": "Web-based molecule sketcher forked by Deltablot",
   "license": "Apache-2.0",
   "homepage": "http://lifescience.opensource.epam.com/ketcher",
   "author": {

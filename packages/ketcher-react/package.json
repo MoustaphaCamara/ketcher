@@ -1,7 +1,7 @@
 {
-  "name": "ketcher-react",
-  "version": "2.26.0",
-  "description": "Web-based molecule sketcher",
+  "name": "@moustaphacamara/ketcher-react",
+  "version": "2.26.6",
+  "description": "Web-based molecule sketcher. Core dependency forked",
   "license": "Apache-2.0",
   "homepage": "http://lifescience.opensource.epam.com/ketcher",
   "author": {
@@ -85,6 +85,9 @@
     "use-resize-observer": "^7.0.0",
     "w3c-keyname": "^2.2.4",
     "whatwg-fetch": "^3.4.1"
+  },
+  "resolutions": {
+    "ketcher-core": "npm:@moustaphacamara/ketcher-core@2.26.6"
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
